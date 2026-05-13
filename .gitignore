@@ -12,8 +12,6 @@ build/
 *.ckpt
 *.safetensors
 
-# Outputs
-outputs/
 
 # IDE
 .vscode/
