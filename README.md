@@ -192,7 +192,6 @@ The **directional CLIP loss** variant measures whether the *direction* of change
 
 ## Citation
 
-This project is based on:
 
 ```bibtex
 @InProceedings{Patashnik_2021_ICCV,
